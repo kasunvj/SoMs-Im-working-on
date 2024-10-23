@@ -2,6 +2,15 @@
 # Linux-based Embedded Systems
 ## Networking
 ### Networking Fundamentals
+#### How a ping works based on Debian/ubuntu systems and raspbian systems 
+
+![Network Diagram](https://github.com/kasunvj/SoMs-Im-working-on/blob/main/images/net.jpg?raw=true)
+
+#### Sharing Internet over Ethernet
+
+![Interent sharing]()
+
+![Sharing internet]()
 
 ### WiFi
 ### 4G
