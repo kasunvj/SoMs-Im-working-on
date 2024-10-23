@@ -8,9 +8,7 @@
 
 #### Sharing Internet over Ethernet
 
-![Interent sharing]()
-
-![Sharing internet]()
+![Interent sharing](https://github.com/kasunvj/SoMs-Im-working-on/blob/main/images/dnsmsq%20(1).jpg?raw=true)
 
 ### WiFi
 ### 4G
